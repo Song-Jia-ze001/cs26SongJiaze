@@ -1,1 +1,7 @@
-# cs26SongJiaze
+XXXXXX Assessment
+===================
+Involves
+* XXXXXX
+* git
+* GitHub
+* SSH
